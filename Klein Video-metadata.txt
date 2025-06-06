@@ -1,0 +1,87 @@
+ExifTool Version Number         : 12.83
+File Name                       : IMG_1821.mov
+Directory                       : .
+File Size                       : 166 MB
+Zone Identifier                 : Exists
+File Modification Date/Time     : 2024:10:17 04:51:47-06:00
+File Access Date/Time           : 2024:10:17 05:56:37-06:00
+File Creation Date/Time         : 2024:10:17 05:56:37-06:00
+File Permissions                : -rw-rw-rw-
+File Type                       : MOV
+File Type Extension             : mov
+MIME Type                       : video/quicktime
+Major Brand                     : Apple QuickTime (.MOV/QT)
+Minor Version                   : 0.0.0
+Compatible Brands               : qt
+Movie Header Version            : 0
+Create Date                     : 2024:08:29 11:40:56
+Modify Date                     : 2024:08:29 11:41:11
+Time Scale                      : 600
+Duration                        : 0:01:40
+Preferred Rate                  : 1
+Preferred Volume                : 100.00%
+Preview Time                    : 0 s
+Preview Duration                : 0 s
+Poster Time                     : 0 s
+Selection Time                  : 0 s
+Selection Duration              : 0 s
+Current Time                    : 0 s
+Next Track ID                   : 6
+Track Header Version            : 0
+Track Create Date               : 2024:08:29 11:40:56
+Track Modify Date               : 2024:08:29 11:41:11
+Track ID                        : 1
+Track Duration                  : 0:01:40
+Track Layer                     : 0
+Track Volume                    : 100.00%
+Balance                         : 0
+Audio Format                    : mp4a
+Audio Channels                  : 2
+Audio Bits Per Sample           : 16
+Audio Sample Rate               : 44100
+Purchase File Format            : mp4a
+Image Width                     : 1920
+Image Height                    : 1080
+Clean Aperture Dimensions       : 1920x1080
+Production Aperture Dimensions  : 1920x1080
+Encoded Pixels Dimensions       : 1920x1080
+Graphics Mode                   : ditherCopy
+Op Color                        : 32768 32768 32768
+Compressor ID                   : avc1
+Source Image Width              : 1920
+Source Image Height             : 1080
+X Resolution                    : 72
+Y Resolution                    : 72
+Compressor Name                 : H.264
+Bit Depth                       : 24
+Video Frame Rate                : 23.999
+Warning                         : [minor] The ExtractEmbedded option may find more tags in the media data
+Matrix Structure                : 1 0 0 0 1 0 0 0 1
+Content Describes               : Track 2
+Media Header Version            : 0
+Media Create Date               : 2024:08:29 11:40:56
+Media Modify Date               : 2024:08:29 11:41:11
+Media Time Scale                : 600
+Media Duration                  : 0:01:40
+Media Language Code             : und
+Gen Media Version               : 0
+Gen Flags                       : 0 0 0
+Gen Graphics Mode               : ditherCopy
+Gen Op Color                    : 32768 32768 32768
+Gen Balance                     : 0
+Handler Class                   : Data Handler
+Handler Vendor ID               : Apple
+Handler Description             : Core Media Data Handler
+Meta Format                     : mebx
+Handler Type                    : Metadata Tags
+Make                            : Apple
+Model                           : iPhone 13
+Software                        : 15.4.1
+Creation Date                   : 2022:04:27 23:22:48-04:00
+Apple Photos Originating Signature: Aa0rXfvsVAeCbylWqm53PitAlcQj
+Media Data Size                 : 166144536
+Media Data Offset               : 68494
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+Avg Bitrate                     : 13.3 Mbps
+Rotation                        : 90
